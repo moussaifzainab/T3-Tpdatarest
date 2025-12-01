@@ -1,8 +1,0 @@
-ma\formation\data\rest\service\model\Article.class
-ma\formation\data\rest\domaine\ArticleDTO.class
-ma\formation\data\rest\MainApplication.class
-ma\formation\data\rest\service\model\Article$ArticleBuilder.class
-ma\formation\data\rest\dao\CategorieRepository.class
-ma\formation\data\rest\service\model\Categorie$CategorieBuilder.class
-ma\formation\data\rest\service\model\Categorie.class
-ma\formation\data\rest\dao\ArticleRepository.class
